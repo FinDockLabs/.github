@@ -27,11 +27,12 @@ Some important characteristics of Labs:
 
 ## Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via an issue or any other method with FinDock before making a change.
+- To add a project of your own, please contact @laurens-findock at laurens@findock.com to get a repository for your work.
+- When contributing to an existing repository, please first discuss the change you wish to make via an issue or any other method with the other contributors before making a change.
 
 ## Support
 
-FinDock Labs is a non-supported group in FinDock that releases applications. Despite the name, assistance for any of these applications is not provided by FinDock Support because they are not officially supported features. For a list of these apps, visit the FinDock Labs account on Github. 
+FinDock Labs is managed by FinDock. Despite the name, assistance for any of these applications is not provided by FinDock Support because they are not officially supported features. For a list of these apps, visit the FinDock Labs account on Github. 
 
 ## License
 
