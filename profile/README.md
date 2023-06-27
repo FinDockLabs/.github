@@ -14,10 +14,15 @@ FinDock Labs gives the broader community in & around FinDock a place to collabor
 ## Some important characteristics of FinDock Labs
 
 Some important characteristics of Labs:
+
 :earth_americas: Everything is Open source.
+
 :x: All projects are NOT part of the FinDock product.
+
 :x: No official support from FinDock support, all projects are community supported.
+
 :+1: We welcome merge requests.
+
 :+1: We welcome GitHub issues. Collaborate in public on GitHub!
 
 ## Contributing
