@@ -13,8 +13,6 @@ FinDock Labs gives the broader community in & around FinDock a place to collabor
 
 ## Some important characteristics of FinDock Labs
 
-Some important characteristics of Labs:
-
 :earth_americas: Everything is Open source.
 
 :x: All projects are NOT part of the FinDock product.
@@ -32,7 +30,7 @@ Some important characteristics of Labs:
 
 ## Support
 
-FinDock Labs is managed by FinDock. Despite the name, assistance for any of these applications is not provided by FinDock Support because they are not officially supported features. For a list of these apps, visit the FinDock Labs account on Github. 
+FinDock Labs is managed by FinDock. Despite the name, assistance for any of these applications is not provided by FinDock Support because they are not officially supported features. Please raise a GitHub issue on a repository to ask support from the contributors to the project or the broader community.
 
 ## License
 
