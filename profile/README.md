@@ -3,7 +3,7 @@
 ## What is the purpose of Labs?
 
 FinDock Labs is a GitHub repo that includes open source Salesforce Flows, code, data related to FinDock. These can be:
-- implementation starters like the [French Template](https://github.com/FinDockLabs/findock-fr-template) we maintain with Salesforce,
+- implementation starters like the [FinDock for Salesforce Fundraising Flows](https://github.com/FinDockLabs/findock-for-fundraising-flows),
 - code or customisations examples like the code supporting the blogs with regards to [doing FinDock payments in experience cloud](https://github.com/FinDockLabs/findock-experience-cloud-examples)
 - cool / fun demo projects like the [RFM grid](https://github.com/FinDockLabs/RFM-customer-segmentation)
 - a guided matching ruleset for some specific P2P platform from which customers want to import and match data to their CRM
